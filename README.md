@@ -17,4 +17,4 @@ In order to use the API, just take the params below, alter them as you please, a
 | categories/?id=1 | This returns the category whose id matches the one that was provided. | 
 | quotes/?author_id=1 | This returns all quotes belonging to the author whose id matches the provided author_id. |
 | quotes/?category_id=1 | This returns all quotes in the category whose id matches the provided category_id. |
-| quotes/?author_id=1&category_id=1; | This returns all quotes that belong to the author w/ the given author_id and which are in the category w/ the given category_id. | 
+| quotes/?author_id=1&category_id=1 | This returns all quotes that belong to the author w/ the given author_id and which are in the category w/ the given category_id. | 
