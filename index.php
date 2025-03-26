@@ -4,9 +4,9 @@
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>2025 Midterm Project</title>
+        <title>Home Page</title>
     </head>
     <body>
-        <h1>Midterm Project REST API</h1>
+        <h1>This is my 2025 midterm project; it's a REST API that manages a quote database.</h1>
     </body>
 </html>
