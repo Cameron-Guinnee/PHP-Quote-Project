@@ -3,7 +3,9 @@
 ## This is an API that uses GET, POST, PUT, and DELETE requests to update a database containing famous quotes. 
 
 Link: 
-https://php-quote-project.onrender.com
+https://php-quote-project.onrender.com/api/
+
+In order to use the API, just take the params below, alter them as you please, and append them to the url above.
 
 | Param | Desc |
 | ----  | ---- |
